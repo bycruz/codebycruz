@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebycruz&hide_border=true&show_icons=true&bg_color=0000&text_color=666666&include_all_commits=true&rank_icon=github" height=180px width=55%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebycruz&hide_border=true&langs_count=6&layout=compact&hide=css,tcl&bg_color=0000" height=180px width=44%>
+  <img src="profile/stats.svg" height=180px width=55%>
+  <img src="profile/top-langs.svg" height=180px width=44%>
 </div>
 
 <!--
